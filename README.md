@@ -1,5 +1,5 @@
 # Reapers-Quest
-A text-based python mini project
+A text-based python mini project.
 The files here are the current version of the project
 
 # Installation...
